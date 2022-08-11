@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "country": "India",
+      "city": "nasik",
+      "population": "2000000",
+      "id": 1
+    },
+    {
+      "country": "Srilanka",
+      "city": "somewhere",
+      "population": "235545",
+      "id": 2
+    },
+    {
+      "country": "America",
+      "city": "Washington DC",
+      "population": "3345",
+      "id": 3
+    },
+    {
+      "country": "America",
+      "city": "Alaska",
+      "population": "43775",
+      "id": 4
+    }
+  ]
+}

@@ -1,17 +1,20 @@
 {
-  "name": "json-server-deploy",
+  "name": "fake-api",
   "version": "1.0.0",
-  "description": "Simple json database to deploy to the host of your choice",
-  "main": "server.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "ninjakodtv, json-server,heroku, node, REST API"
-  ],
-  "author": "mock",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdarshadkhan1998/fake-api.git"
+  },
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "dependencies": {
-    "json-server": "^0.17.0"
-  }
+  "bugs": {
+    "url": "https://github.com/mdarshadkhan1998/fake-api/issues"
+  },
+  "homepage": "https://github.com/mdarshadkhan1998/fake-api#readme"
 }
