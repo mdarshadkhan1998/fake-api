@@ -1,8 +1,6 @@
-const items = require("./data/db");
-const data = require("./data/db.json");
+const data = require("./data/db");
 module.exports = {
-  data,
-  items
+  data
 }
 
 
